@@ -1,0 +1,14 @@
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\bin\Debug\net8.0\AliceSearch.exe
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\bin\Debug\net8.0\AliceSearch.deps.json
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\bin\Debug\net8.0\AliceSearch.runtimeconfig.json
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\bin\Debug\net8.0\AliceSearch.dll
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\bin\Debug\net8.0\AliceSearch.pdb
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\AliceSearch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\AliceSearch.AssemblyInfoInputs.cache
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\AliceSearch.AssemblyInfo.cs
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\AliceSearch.csproj.CoreCompileInputs.cache
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\AliceSearch.dll
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\refint\AliceSearch.dll
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\AliceSearch.pdb
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\AliceSearch.genruntimeconfig.cache
+c:\Users\delan\FT_2024_WebDev\Unit2-C-Sharp\chapter-exercises\ChapterExercises\AliceSearch\obj\Debug\net8.0\ref\AliceSearch.dll
